@@ -50,7 +50,7 @@
     <DocumentationFile>bin\Release\PytGame2000.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Без-имwени-3.ico</ApplicationIcon>
+    <ApplicationIcon>ICO.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
@@ -136,7 +136,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Без-имwени-3.ico" />
+    <Content Include="ICO.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.1">

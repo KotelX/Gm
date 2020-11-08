@@ -72,7 +72,7 @@ namespace PytGame2000
             numericUpDown.Visible = false;
             label1.Visible = false;
             Refrash();              //обновление значений на кнопках
-            if (DateTime.Now == new DateTime(2020, 10, 20) || true)
+            if (DateTime.Now == new DateTime(2020, 10, 20) || DateTime.Now == new DateTime(2020, 11, 08))
             {
                 var form2 = new SpecialForAnya();
                 form2.Show();
